@@ -1,0 +1,19 @@
+{
+  "name": "blogimgs",
+  "version": "1.0.0",
+  "description": "store some images for blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoxi2093/blogImgs.git"
+  },
+  "author": "shaoxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaoxi2093/blogImgs/issues"
+  },
+  "homepage": "https://github.com/shaoxi2093/blogImgs#readme"
+}
